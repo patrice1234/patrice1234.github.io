@@ -85,11 +85,11 @@ Color 1:
 ***********************************/
 
 article{
-    background:#E80C7A;
+    background: rgba(230, 230, 230, 0.7);
 }
 
 footer{
-    background:pink;
+    background: rgba(230, 230, 230, 0.7);
 }
 
 .jumbotron{
@@ -99,4 +99,12 @@ footer{
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+
+body{
+   background:#D26CD9
+}
+
+Art{
+   background:#D26CD9
 }
