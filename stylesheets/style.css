@@ -44,9 +44,23 @@ FONTS
 
 /**********************************
 COLORS and BACKGROUNDS
+
+
 Color 1:
 Color 1:
 Color 1:
 Color 1:
 Color 1:
 ***********************************/
+
+body{
+   background:#D26CD9
+}
+
+footer{
+    background: rgba(230, 230, 230, 0.7);
+}
+.art{
+    width:300px; 
+    height:355px;
+}
